@@ -15,6 +15,8 @@ Here is a list of academic fields that I have some knowledge on
 * Qualitative Research Methods
 * Chinese Politics 
 
+### Extra Information
+
 And here is the link to my poorly-managed [linkedin page](https://www.linkedin.com/in/wuxiufan/)
 
 It is a little bit embarrassing to share a picture of myself here, so I think I would share a picture that I took during my trip to Japan last year. As the pandemic has stopped us from international travel, hope this stunning view provide you with some comfort. 
