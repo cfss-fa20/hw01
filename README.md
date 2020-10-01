@@ -9,7 +9,7 @@ My name is Julia Pruin and I am a new MAPSS student here at UChicago. I am conce
  - I love to bake and cook. If I am stressed, I make cookies or bread.
  - I am not allergic to mosquitoes. I still get bit, but I don't itch or swell.
  - I have a pitbull. Her name is Hayley. She is a baby and I miss her very much.
- ![Here is my dog](/Users/jprui/Pictures/HayleyBaby.jpg)
+ ![Here is my dog](\Users\jprui\Pictures\Saved Pictures\HayleyBaby.jpg)
  
 ## Some Progress Notes
  - I really didn't pay enough attention the first time that I learned how to fork from github in June. I have been spoiled by downloading from Box for the last few months and so I had to *entirely* relearn the process.
