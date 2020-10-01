@@ -1,7 +1,7 @@
 # hw01
 ## Hello there! 
 
-My name is Julia Pruin and I am a new MAPSS student here at UChicago. I am concentrating in Psychology and working with Dr. Monica Rosenberg for my thesis. I plan to research the cognitive measures that might be used to predict changing ADHD diagnoses in an adolescent sample. 
+My name is Julia Pruin and I am a new MAPSS student here at UChicago. I am concentrating in Psychology and working with [Dr. Monica Rosenberg](https://psychology.uchicago.edu/directory/monica-rosenberg) for my thesis. I plan to research the cognitive measures that might be used to predict changing ADHD diagnoses in an adolescent sample. 
 
 ## Some Fun Facts
 
