@@ -1,3 +1,3 @@
 # hw01
 
-My name is James Qian
+Hi, my name is James Qian
