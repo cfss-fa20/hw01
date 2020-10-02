@@ -14,6 +14,6 @@ Some of my academic and non-academic interests are:
   * Podcasts
   * Football
 
-I've been completely let down by _Big Brother 22_ this season, so I just want to give a shout-out to ![Queen Da'Vonne Rogers](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkYDO1oMoinwifbh8m8kajXJftZLVKKIO6Lg&usqp=CAU)
+I've been completely let down by _Big Brother 22_ this season, so I just want to give a shout-out to Queen Da'Vonne Rogers ![BB22 Da'Vonne](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkYDO1oMoinwifbh8m8kajXJftZLVKKIO6Lg&usqp=CAU)
 
 
