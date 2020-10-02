@@ -16,8 +16,8 @@ My courses include:
   
 Here is a picture of me:
 
-![Picture of Maggie]
-(https://github.com/Maggie-106/hw01/blob/master/picture.jpeg)
+![Maggie]
+(https://github.com/Maggie-106/hw01/blob/master/Maggie.png)
 
 
 ## Other things you may be interested in 
