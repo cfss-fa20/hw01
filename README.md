@@ -12,9 +12,9 @@ During my MAPSS year I will be completing a _thesis_ in social psychology as wel
 _computational and quantitative skills_ to prepare for PhD study. 
 During my free time I enjoy:
 
-1. Reading 
+* Reading 
   + mostly non-fiction
-2.  Listening to podcasts 
+* Listening to podcasts 
   + anything NPR
   + true crime
-3.  And going on walks
+* And going on walks
