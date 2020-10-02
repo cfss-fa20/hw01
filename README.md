@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 # hw01
 
 ## Self Introduction: Stan Xie
