@@ -13,8 +13,8 @@ _computational and quantitative skills_ to prepare for PhD study.
 During my free time I enjoy:
 
 * Reading 
- * mostly non-fiction
+ + mostly non-fiction
 * Listening to podcasts 
- * anything NPR
- * true crime
+ + anything NPR
+ + true crime
 * And going on walks
