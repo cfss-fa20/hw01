@@ -10,4 +10,4 @@ Hi! My name is **Zhilan Fang**. I'm a MAPSS student with a concentration in Soci
 * Also love cooking but is still trying to improve my cooking skills
 
 Here is a photo of me:
-![Zhilan](https://github.com/zlfang97/hw01/blob/master/profile.jpg)
+![Zhilan](https://github.com/zlfang97/hw01/blob/master/profile.jpg?raw=true)
