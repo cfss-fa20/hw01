@@ -3,7 +3,7 @@
 ***
 ### An Introduction to Emily  
 Hello and thank you for reading my introduction! My name is Emily Young and I 
-am a 4^th^ year in the College double majoring in **Political Science** and **Public Policy** 
+am a 4th year in the College double majoring in **Political Science** and **Public Policy** 
 with a specialization in education policy. While I have always been interested in learning 
 how to code, the process of actually doing so has seemed incredibly daunting. However, I'm taking
 the leap and trying to learn now.
@@ -21,7 +21,7 @@ However, when I moved to Chicago for college my parents decided to move to Londo
 While I'm definitely not a Londoner (a fact my 18 year old
 brother loves rubbing in my face) I love visiting the city and my family during school breaks.  
 2. For extracurricular activities:
-    + I am a teacher's assistant for a 3^rd^ grade math class at a local Chicago Public School.
+    + I am a teacher's assistant for a 3rd grade math class at a local Chicago Public School.
     + I help run a Model UN conference for high school students to teach them debate skills. 
   This year we are simulating the woman's suffrage movement and as an **avid** feminist 
   I can not wait to see how the kids tackle this challenge.  
