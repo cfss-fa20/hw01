@@ -11,4 +11,5 @@ Hi! My name is **Zhilan Fang**. I'm a MAPSS student with a concentration in Soci
 
 Here is a photo of me:
 
-<div align="center">![profile](https://github.com/zlfang97/hw01/blob/master/profile.jpg?raw=true)This is me in Paris. Miss the days when we could travel around!</div>
+![profile](https://github.com/zlfang97/hw01/blob/master/profile.jpg?raw=true)
+<center>This is me in Paris back in 2018. Miss the days when we could travel around!</center>
