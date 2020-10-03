@@ -8,7 +8,8 @@
 
 test  
 
-this is a table | and here is the second column  
+
+this is a table | and here is the second column
 -----------------------------------------------
-look at me      | I am a table  
+look at me      | I am a table
 does this fix't | hopefully
