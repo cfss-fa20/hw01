@@ -10,5 +10,5 @@ test
 
 this is a table | and here is the second column  
 -----------------------------------------------
-look at me | I am a table  
-I could probably write a haiku | but I have not.  
+look at me      | I am a table  
+does this fix't | hopefully
