@@ -6,7 +6,7 @@
 
 # In any case, this is a line break of some sort:
 
-test
+test  
 
 this is a table | and here is the second column  
 -----------------------------------------------
