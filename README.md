@@ -27,12 +27,12 @@ brother loves rubbing in my face) I love visiting the city and my family during 
   I cannot wait to see how the kids tackle this challenge.  
     + I am a project leader for UChicago's student-run think tank, the Paul
   Douglas Institute.  
-3. I can not drink coffee because I find the taste horrible. Instead I have a 
+3. I can't drink coffee because I find the taste horrible. Instead, I have a 
 **very large** tea collection which I *love* sharing with friends. If you ever need 
 recommendations for the best type of tea to drink (my answer is usually Earl Grey) 
 or the best tea company (it's TWG or Williamsons), I am your girl. 
 4. Despite my inability to dance, sing, or act, I really love musical theater
-and frequently listen to Broadway cast recordings while studying. My friends unfortunately
+and frequently listen to Broadway cast recordings while studying. Unfortunately, my friends
 are not avid fans of theater - so if you ever want to talk about musicals I would be 
 *more than happy* to do so.
 5. I have a giant dog named Bruder who lives with my parents in London.
