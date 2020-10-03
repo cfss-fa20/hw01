@@ -13,3 +13,8 @@ During my free time, I love to:
 * Bake
 * Travel
 
+Here is a picture of me when I am traveling in Kyoto:
+
+![Minwen](IMG_2867.png)
+
+
