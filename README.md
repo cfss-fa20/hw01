@@ -1,13 +1,13 @@
 # Homework One (hw01)  
 ## By James Seddon  
 
-### Goal: Edit ReadMe to Provide Introduction to Class,
+### Goal: Edit ReadMe to Provide Introduction to Class
 _(as well as experimenting with R Markdown)_  
 
 
 ## Introduction  
 
-Hello, dear viewer! My name is James Seddon, and I'm a 4^th^ year in the college studying Public Policy and Political Science. I warn you that, unlike my [favorite facebook group](https://www.facebook.com/groups/1349827481747511), graphic design is not my passion. This should explain why this markdown document is **bold**, but not in a good way.  
+Hello, dear viewer! My name is James Seddon, and I'm a 4<sup>th</sup> year in the college studying Public Policy and Political Science. I warn you that, unlike my [favorite facebook group](https://www.facebook.com/groups/1349827481747511), graphic design is not my passion. This should explain why this markdown document is **bold**, but not in a good way.  
 
 Here are three things you should know about me:  
 
