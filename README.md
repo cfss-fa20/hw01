@@ -4,19 +4,19 @@
 ### An Introduction to Emily  
 Hello and thank you for reading my introduction! My name is Emily Young and I 
 am a 4th year in the College double majoring in **Political Science** and **Public Policy** 
-with a specialization in education policy. While I have always been interested in learning 
+with a specialization in Education Policy. While I have always been interested in learning 
 how to code, the process of actually doing so has seemed incredibly daunting. However, I'm taking
 the leap and trying to learn now.
 
 In terms of academic interests, I am really interested in the inequities present in our education 
-system and how we can craft policies to remedy them.
-After college, I hope to either become a teacher or work in the field of education 
+system and in studying how we can craft policies to remedy them.
+After college, I hope to either become a teacher or to work in the field of education 
 policy. Because of this, I plan to take as many education
 classes as I possibly can while I am here. 
 
 But enough about academics, here's a little bit about me personally: 
 
-1. I am from New York City and like most New Yorkers, I am very proud of this fact. 
+1. I am from New York City and, like most New Yorkers, I am very proud of this fact. 
 However, when I moved to Chicago for college my parents decided to move to London, England.
 While I'm definitely not a Londoner (a fact my 18 year old
 brother loves rubbing in my face) I love visiting the city and my family during school breaks.  
