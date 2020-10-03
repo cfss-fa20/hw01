@@ -24,7 +24,7 @@ brother loves rubbing in my face) I love visiting the city and my family during 
     + I am a teacher's assistant for a 3rd grade math class at a local Chicago Public School.
     + I help run a Model UN conference for high school students to teach them debate skills. 
   This year we are simulating the woman's suffrage movement and as an **avid** feminist 
-  I can not wait to see how the kids tackle this challenge.  
+  I cannot wait to see how the kids tackle this challenge.  
     + I am a project leader for UChicago's student-run think tank, the Paul
   Douglas Institute.  
 3. I can not drink coffee because I find the taste horrible. Instead I have a 
