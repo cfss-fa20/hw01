@@ -13,8 +13,10 @@ During my free time, I love to:
 * Bake
 * Travel
 
-Here is a picture of me when I am traveling in Kyoto:
+Here is a picture of me:
 
 ![Minwen](IMG_2867.png)
 
 
+## Additional Resource
+Great computing course for new learners of R: [Computing for the Social Science](https://cfss.uchicago.edu/)
