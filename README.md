@@ -1,11 +1,11 @@
 # Emily Young - HW01  
-###### *Below I will practice using RMarkdown by writing a biography of myself*   
+###### *Below I will practice using RMarkdown by writing a biography about myself*   
 ***
 ### An Introduction to Emily  
 Hello and thank you for reading my introduction! My name is Emily Young and I 
 am a 4^th^ year in the College double majoring in **Political Science** and **Public Policy** 
 with a specialization in education policy. While I have always been interested in learning 
-how to code, the process of actually doing so has seemed incredibly daunting. But, I'm taking
+how to code, the process of actually doing so has seemed incredibly daunting. However, I'm taking
 the leap and trying to learn now.
 
 In terms of academic interests, I am really interested in the inequities present in our education 
@@ -29,7 +29,7 @@ brother loves rubbing in my face) I love visiting the city and my family during 
   Douglas Institute.  
 3. I can not drink coffee because I find the taste horrible. Instead I have a 
 **very large** tea collection which I *love* sharing with friends. If you ever need 
-recommendations on the best type of tea to drink (my answer is usually Earl Grey) 
+recommendations for the best type of tea to drink (my answer is usually Earl Grey) 
 or the best tea company (it's TWG or Williamsons), I am your girl. 
 4. Despite my inability to dance, sing, or act, I really love musical theater
 and frequently listen to Broadway cast recordings while studying. My friends unfortunately
