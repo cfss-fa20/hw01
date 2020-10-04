@@ -18,6 +18,6 @@ During spare time, I like to
 
 Here is a picture of one of the eraser stamps I carved.
 
-![Image of Eraser carving](Eraser Carving.jpg)
+![Image of Eraser carving](EraserCarving.jpg)
 
 I am currently still living in China due to the pandemic, so I am eager to meet everyone in person. Hope to see you soon when everything goes back to normal!
