@@ -1,7 +1,7 @@
 <hw01>
 
 # My name is *Andrew Bacotti*
-![This is Me!](c:/Users/Andrew/OneDrive/Desktop/Homework - Computing for Social Sciences/hw01/bondchapel.jpg)
+![This is Me!](hw01/bondchapel.jpg)
 
 ## Acadmeic Summary
 >I am a **third-year sociology major** in the college focusing on economic sociology and how property ownership influences intergenerational income disparities. I am taking this class to gain practical skills as I attempt to enter into the BA/MA program in sociology. I am hoping that it will help me with future research projects. 
