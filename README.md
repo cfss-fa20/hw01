@@ -19,7 +19,7 @@ Here is what the view outside my window looks like right now -
   * Meaning and well-being
 
 ##### BONUS FACT
-* I LOVE Avatar: The Last Airbender. 
+* I **love** Avatar: The Last Airbender. 
 
 
 
