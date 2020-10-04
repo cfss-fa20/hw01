@@ -6,8 +6,7 @@ At home, I have a wonderful dog named **Louie** who is adorable.
 
 *see picture below*
 
-
-![](7837950D-269E-4A13-B4DA-3764E2D029F4.jpeg)
+![](lou.jpeg)
 
 Here are some things that are cute about Louie:
 
