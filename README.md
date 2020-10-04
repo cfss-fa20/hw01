@@ -1,6 +1,6 @@
 # Homework 1: Emily Webster Biography
 
-**_tl;dr summary_**
+### tl;dr Summary
 
 * Sixth-year PhD Candidate in History, working on 19th century epidemics
 * MSc student in Public Health Science
@@ -8,7 +8,7 @@
 * Dog and cat mom
 * Taking CFSS to beef up computing skills for epidemiological analysis/mapping
 
-**_Actual Summary_**
+### Actual Summary
 
 Hello! My name is Emily, and I am PhD Candidate in the history department here at UChicago. I work on historical epidemics of microbial disease (specifically plague, tuberculosis, and typhoid fever) across the British Empire. Because I am such a disease nerd, I am also working on an MSc in Public Health Science, so I can get a handle on epidemiological modeling and analysis. 
 
