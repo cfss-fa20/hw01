@@ -14,9 +14,9 @@ Hello all! My name is Emily, and I am PhD Candidate in the history department he
 
 I just returned from 18 months of dissertation research in the UK, India, and Australia, which led to some very cool moments, like these:
 
-![Great Barrier Reef](C:\Users\elweb\Dropbox\Computing for Social Sciences\hw01\Great Barrier Reef.png) 
+![Snorkelling at the Great Barrier Reef](C:\Users\elweb\Dropbox\Computing for Social Sciences\hw01\Great Barrier Reef.png) 
 
-![Jaipur](C:\Users\elweb\Dropbox\Computing for Social Sciences\hw01\Jaipur.png)
+![Visiting Birla Mandir in Jaipur](C:\Users\elweb\Dropbox\Computing for Social Sciences\hw01\Jaipur.png)
 
 
 Outside of work, I love to hike and hang out with my dog and cat. I also edit a feminist environmental history blog called [Environmental History Now](https://envhistnow.com/). We try to showcase the work of female-identifying early career scholars across environmental studies. It was started by a BU student named Elizabeth Hameeteman, and has grown into something pretty remarkable - I recommend checking it out! 
