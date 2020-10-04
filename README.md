@@ -13,7 +13,7 @@ Here is a graduation photo taken with my best friend.
 * **My hobbies**
   * Singing :microphone:
   * Dancing :dancer:
-  * Travelling :airplane:
+  * Traveling :airplane:
 
 This is my personal page on GitHub (https://github.com/Yilin-zhu) 
 
