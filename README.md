@@ -1,6 +1,6 @@
 # hw01
 
-#Self-introduction
+## Self-introduction
 1. My name is **Rui Tang**. 
 2. I am a MAPSS student in _Psychology_. 
   1. I am interested in studying individual differences. 
