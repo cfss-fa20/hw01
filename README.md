@@ -1,10 +1,5 @@
 # hw01
 
----
-title: "Biography"
-output: html_document
----
-
 I am **Maria Jose Camacho**, second year student at Harris Public Policy School. Before coming to Chicago, I have worked in different agencies in order to define roles, functions and responsibilities at the regulatory, individual and institutional levels to support in the transition of the **criminal justice system** implemented in 20016 in Mexico. 
 
 
