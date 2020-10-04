@@ -18,7 +18,7 @@ I'm Ishita - a MAPSS student in the psychology concentration. I'll be studying r
 * I **love** Avatar: The Last Airbender. 
 
 * Here is what the view outside my window looks like right now - 
-![window view](IMG_5212.jpeg){width=75%}
+![window view](IMG_5212.jpeg)
 
 
 
