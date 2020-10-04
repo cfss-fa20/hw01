@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # hw01
 ## Ruben Heuer
 
@@ -11,11 +6,11 @@ output:
 
 When I am not working on my homework assignments I like to...
 
-* playing videogames
+* play videogames
 * engage in various physical activities, such as...
   + running along Lake Michigan
   + hopefully I'll get back to bouldering soon
 
 This is a picture of myself in Ocean Park, Hongkong, wearing a *fashionable* panda hat:
 
-![Pandaperson](C:\Users\ruben\OneDrive\Desktop\CSS\Homework\hw01\panda.jpeg)
+![Pandaperson](https://github.com/rheuer83/hw01/blob/master/Panda.jpeg)
