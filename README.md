@@ -7,8 +7,8 @@ My name is Sharanya Bashyam and I am 23 years old. I am a student in the MAPSS p
 
 Here are a list of things that I enjoy:
 
-* Psychology
-* Reading book (At present, I am reading *Killing Commendatore* by Haruki Murakami )
+* Psychology(My research interests are in the field of developmental psychology and language acquisition)
+* Reading books (At present, I am reading *Killing Commendatore* by Haruki Murakami )
 * Music (Currently I am obsessed with the *Folklore* album, *If I left the world by Gryffin* and *Dynamite* by BTS).
     + Some of my favourite groups/singers:
       - BTS 
