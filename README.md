@@ -7,8 +7,12 @@
 When I am not working on my homework assignments I like to...
 
 * play videogames
+<<<<<<< HEAD
 * playing guitar
 * engage in physical activities, such as...
+=======
+* engage in various physical activities, such as...
+>>>>>>> 7b87035c91951847d66aca739cdaf10e169171f8
   + running along Lake Michigan
   + hopefully I'll get back to bouldering soon
 
