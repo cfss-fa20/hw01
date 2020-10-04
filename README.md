@@ -15,6 +15,6 @@ Here is a graduation photo taken with my best friend.
   * Dancing :dancer:
   * Traveling :airplane:
 
-This is my personal page on GitHub (https://github.com/Yilin-zhu) 
+This is my personal [page](https://github.com/Yilin-zhu) on GitHub.
 
 I am very excited to start this new journey on GitHub with all of you! :smile:
