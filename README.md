@@ -18,7 +18,7 @@ Outside of class, a few of *my favorite things* are listed below:
 * Dark chocolate
 * Outdoors
 
-I am a member of the Women's Soccer team, and I also love to run. I am a little bit of a fitness freak, and I pretty much love any form of working out. I spend pretty much all of the (limited) free time that I have doing something active! One of my favorite things to do in Chicago is to run downtown with friends to get donuts.
+I am a member of the Women's Soccer team ([Athletics Bio](https://athletics.uchicago.edu/sports/wsoc/2020-21/bios/kenig-ziesler_anna_u8hf)), and I also love to run. I am a little bit of a fitness freak, and I pretty much love any form of working out. I spend pretty much all of the (limited) free time that I have doing something active! One of my favorite things to do in Chicago is to run downtown with friends to get donuts.
 
 ![Image of Me Playing Soccer](IMG_0131_smaller.jpeg)
 
