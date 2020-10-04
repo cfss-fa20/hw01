@@ -4,7 +4,7 @@
 
 ## Academic Interests
 
-My name is Anna Kenig-Ziesler, and I am a third year in the College. I am majoring in Public Policy and minoring in Human Rights. I am really interested in better understanding how data can be used to inform public policy, so I am really excited to be taking this course! In the past, I have found that an inability to program can be quite limiting when it comes to data analysis, so I am looking forward to getting an introduction to computing! On campus, I am very involved in UChiVotes, and I am really passionate about getting out the vote this election. While I am unsure of what I want to do career-wise, I would love to work on environmental or civil rights issues in some capacity in the policy world. 
+My name is Anna Kenig-Ziesler, and I am a third year in the College. I am majoring in Public Policy and minoring in Human Rights. I am really interested in better understanding how data can be used to inform public policy, so I am really excited to be taking this course! In the past, I have found that an inability to program can be quite limiting when it comes to data analysis, so I am looking forward to getting an introduction to computing! On campus, I am very involved in UChiVotes, and I am really passionate about getting out the vote this election. While I am unsure of what I want to do career-wise, I would love to work on environmental or civil rights issues in some capacity in the policy world. I have worked for non-profits the past few summers. This experience has really motivated me to get involved on the policy side, as I have realized that larger scale, policy solutions are necessary. I think that policy research is a big part of this, so I am excited to see how this class can open doors in terms of my research capabilities. 
 
 ## Outside of Class
 
@@ -22,6 +22,6 @@ I am a member of the Women's Soccer team ([Athletics Bio](https://athletics.uchi
 
 ![Image of Me Playing Soccer](IMG_0131_smaller.jpeg)
 
-I also really love animals, and I have two cats and a dog at home. While I have always been a cat person, dogs have definitely grown on me since we got our dog a few years ago! I really enjoyed being able to spend some more time at home with my pets during quarantine. 
+I also really love animals, and I have two cats and a dog at home. Their names are **Lucky,** **Fleetwood,** and **Rosie**. While I have always been a cat person, dogs have definitely grown on me since we got our dog a few years ago! I really enjoyed being able to spend some more time at home with my pets during quarantine. 
 
 
