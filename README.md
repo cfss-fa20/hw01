@@ -1,8 +1,6 @@
 # hw01
-
-My name is Yilin Zhu, a graduate student from the MAPSS program majoring in sociology.
-
-This year I just finished my undergraduate education in sociology at Sun Yat-sen University.
+# Introduction
+My name is Yilin Zhu, a graduate student from the MAPSS program majoring in sociology. This year I just finished my undergraduate education in sociology at Sun Yat-sen University.
 
 Here is a graduation photo taken with my best friend.
 <a href="https://sm.ms/image/k8R4mn1eZwzF5S7" target="_blank"><img src="https://i.loli.net/2020/10/04/k8R4mn1eZwzF5S7.jpg" ></a>
