@@ -14,7 +14,7 @@ Hello! My name is Emily, and I am PhD Candidate in the history department here a
 
 I just returned from 18 months of dissertation research in the UK, India, and Australia, which led to some very cool moments, like these:
 
-![Snorkelling at the Great Barrier Reef](./Great Barrier Reef.png) 
+![Snorkelling at the Great Barrier Reef](./Great_Barrier_Reef.png) 
 
 ![Visiting Birla Mandir in Jaipur](./Jaipur.png)
 
