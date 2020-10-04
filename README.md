@@ -10,7 +10,7 @@
 
 **_Actual Summary_**
 
-Hello all! My name is Emily, and I am PhD Candidate in the history department here at UChicago. I work on historical epidemics of microbial disease (specifically plague, tuberculosis, and typhoid fever) across the British Empire. Because I am such a disease nerd, I am also working on an MSc in Public Health Science, so I can get a handle on epidemiological modeling and analysis. 
+Hello! My name is Emily, and I am PhD Candidate in the history department here at UChicago. I work on historical epidemics of microbial disease (specifically plague, tuberculosis, and typhoid fever) across the British Empire. Because I am such a disease nerd, I am also working on an MSc in Public Health Science, so I can get a handle on epidemiological modeling and analysis. 
 
 I just returned from 18 months of dissertation research in the UK, India, and Australia, which led to some very cool moments, like these:
 
