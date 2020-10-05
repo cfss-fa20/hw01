@@ -25,8 +25,8 @@ __This will be *both*.__
   
 1. Ordered list
 2. Animals
-   + horse
-   + dolphin 
+   1. horse
+   2. dolphin 
 
 
 image: ![Sea](https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-580833893.jpg?w=990&crop=1)
