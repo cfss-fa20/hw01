@@ -9,3 +9,4 @@ I currently live in Kampala, Uganda but I have lived in multiple cities, includi
 *Phoenix, Arizona
 *New Delhi, India
 A common phrase that depicts my upbringin is being a [third culture kid!](https://www.cntraveler.com/story/for-third-culture-kids-travel-is-home?fbclid=IwAR3bhexCZCz9zTVT_om9_bl9WqRHm8gNOHZ4lFTbtW774q1HG6VrjmYj-VI)
+hi there 
