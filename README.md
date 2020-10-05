@@ -5,7 +5,7 @@
 **Hello! My name is Adeline Kao and this is my short personal biography.**
 *(I go by the pronouns she,her,hers.)*
 ## Personal Biography
-![](Adeline_Kao_Picture.png)
+![](AdelineKao/hw01/Adeline_Kao_Picture.png)
 I was born on August 13th, 1998 in Idaho.
 On November 28th, 2000, my younger brother, Kevin, was born.
 Before my eighth birthday, my family moved to Texas where I spent most of my life.
