@@ -11,9 +11,11 @@ My name is Leyi Kang. I am a master student studying psychology in the Social Sc
 
 #### Header 4
 
-*This sentence will be italic* or _This will also be italic_
-**This sentence will be bold ** or __This will also be bold__
-__This will be *both*__
+*This sentence will be italic.* or _This will also be italic._
+
+**This sentence will be bold.** or __This will also be bold.__
+
+__This will be *both*.__
 
 * Unordered List
 * Colors
