@@ -14,7 +14,7 @@ I am (unfortunately) allergic to:
 1. Cats
 2. Strawberries
 3. All trees native to Texas
-4. Most grasses native to Texas
+4. All grasses native to Texas
 My favorite book is "Written in Red" by Anne Bishop
 [link to book!](https://www.goodreads.com/book/show/15711341-written-in-red?from_search=true&from_srp=true&qid=QvkNeoCoAb&rank=1)
 I am excited to be taking this class and I am looking forward to learning about R.
