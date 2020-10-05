@@ -11,3 +11,4 @@ My main hobbies and interests are as follows:
 * Cooking and Baking
 * Knitting 
 
+### Dance
