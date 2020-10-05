@@ -29,7 +29,7 @@ __This will be *both*.__
    2. dolphin 
 
 
-image: ![Sea](https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-580833893.jpg?w=990&crop=1)
+Here's a picture of the sea: ![Sea](https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-580833893.jpg?w=990&crop=1)
 
 
 [lego](https://www.lego.com/en-us)
