@@ -26,7 +26,7 @@ Check this [wiki page](https://www.wikiwand.com/en/List_of_Case_Closed_character
 ## Some other things about me
 - I'm a decade-long Lakers fan :basketball: :trophy:
 - I also love Barcelona but I really have no idea what they are doing these days... :soccer: :man_facepalming:
-- I also played ping pong, pool, and volleyball (ranked in decreasing order of skills) :ping_pong: :8ball:	volleyball
+- I also played ping pong, pool, and volleyball (ranked in decreasing order of skills) :ping_pong: :8ball: :volleyball:
 - I'm a new transfer student from Wesleyan University, a small liberal arts college in Connecticut where I was enrolled in a selective pre-law program until I realize law school might not be the thing for me and I really wanna explore more about (quantitative) social science research, hence my transfer :man_student: :man_technologist:
 - I farmed on-and-off during weekends for a year, and for 2 months during the summer on the student-run organic farm in my previous college :man_farmer:	
 - I'm currently exploring stand-up comedy as a genre of humor, but man, the cultural and language barrier is real! :studio_microphone:	:man_shrugging:
