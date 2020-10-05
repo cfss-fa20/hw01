@@ -3,7 +3,7 @@
 # Adeline Kao Personal Biography
 ## Introduction
 **Hello! My name is Adeline Kao and this is my short personal biography.**
-*(I go by the pronouns she,her,hers.)*
+*(I go by the pronouns she, her, hers.)*
 ## Personal Biography
 ![Image of Adeline Kao](Adeline_Kao_Picture.png)
 
