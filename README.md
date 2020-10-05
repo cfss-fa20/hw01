@@ -9,9 +9,16 @@ After finishing high school in Maryland, I first came to Chicago in 2011 when I 
 
 I knew that I wanted to learn a foreign language, and I already had taken Spanish all through school (plus, spoke it as a heritage speaker) so I began to take **Hindi**.  This would lead to all sorts of interesting life outcomes, and would keep me in the UChicago orbit...
 
-As an undergrad, I was engaged in a few activities, namely:
+As an undergrad, I was engaged in a variety of different activities, namely:
 
 1. ChoMUN
 2. Team
 3. MUNUC
+4. ...
+5. ...
+6. ...
+7. I wrote one or two *Maroon* articles?
 
+Just kidding. No variety.  I really only did Model UN.
+
+After graduating, I ~~dicked around~~ *interned* 
