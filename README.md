@@ -3,7 +3,7 @@
 
 #### Who Am I? (... I am Jean Valjean!??)
 
-![](Dhruv_Headshot.jpeg)
+![](Dhruv_Headshot.jpeg){width=50%}
 
 I'm Jesse Orr, a second year student at Harris from **Baltimore, MD**.  Well, technically **Owings Mills, MD**, a suburb of Baltimore.
 
