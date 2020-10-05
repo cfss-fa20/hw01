@@ -3,7 +3,7 @@
 
 #### Who Am I? (... I am Jean Valjean!??)
 
-![](Dhruv_Headshot.jpeg){width=50%}
+![](Dhruv_Headshot.jpeg){width=20%}  
 
 I'm Jesse Orr, a second year student at Harris from **Baltimore, MD**.  Well, technically **Owings Mills, MD**, a suburb of Baltimore.
 
@@ -32,3 +32,5 @@ I spent my first year working with the Ministry of Municipal Administration and 
 I.e... what happens when someone's septic tank fills up (sewage systems with full urban coverage are capital intensive and time consuming to build and operate, especially in already-existing cities; as a result, there are very few in India outside of top-tier cities).
 
 It was actually a great time.
+
+However... in the interest of not writing to much, when it isn't really relevant, that's it for now.
