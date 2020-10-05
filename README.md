@@ -3,3 +3,4 @@
 * Hobbies
   1. Travelling
   2. Watching crime dramas
+My favoriate illustrator: **Lost 7**
