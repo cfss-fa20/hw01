@@ -13,11 +13,11 @@ My main hobbies and interests are as follows:
 
 ### Dance
 
-Dance is probably what I spend the majority of my time doing! It is so freeing and I get to spend time with some of the greatest people I know! I have attached a picture of my dance group below:
+Dance is *probably* what I spend the majority of my time doing! It is so freeing and I get to spend time with some of the **greatest** people I know! I have attached a picture of my dance group below:
 
 
 ![](https://lh6.googleusercontent.com/Le1KzzWrcAxl8sJhrsjEYNRjL1XnN7M4M3LEtpfOk8TOi2UpQ-HC9Flz7TT4GXx8aSrdoec=w16383)
 
 I am also attaching our website below:
 
-[UCDancers' Website](https://www.ucdancers.com/meet-the-company)
+[UC Dancers' Website](https://www.ucdancers.com/meet-the-company)
