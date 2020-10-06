@@ -17,7 +17,7 @@ I have two younger sisteres named *Elsa* and *Natalia* and I love them both very
 *Hiking 
 *Traveling
 
-##### My COVID summer
+##### My COVID Summer
 
 This summer I worked as an intern for the Brookings Institution, and the United Nations Development Program for Africa where I conducted research on the Effect of COVID-19 on Africa. It was an extreemly fulfiling internship, and below is the link to some of my work at The [Brookings Institute](https://harris.uchicago.edu/admissions/blog/my-summer-internship-brookings-institute)
 
