@@ -1,7 +1,7 @@
 # hw01
 ## Sunday: Gustavo Arruda (Student Speaker)
 
-![Headshot](Gustavo Arruda Student Speaker.png)
+![Headshot](https://i.imgur.com/YwK56ZZ.jpg)
 
 **Gustavo Arruda** (*he/him*) is a Brazilian first-generation college student at the University of Chicago. He studies sociology as an Odyssey Scholarship recipient in the class of 2021, and has been researching Brazilian church politics as an intern to a project about religion in the pandemic.
 
