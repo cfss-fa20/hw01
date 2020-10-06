@@ -2,7 +2,7 @@
 Hi, this is Zewei (Whiskey) Liao, a third-year Sociology Major and an international student from Shenzhen, China, a city right next to Hong Kong. 
 
 ## The Origin of "Whiskey"
-Zewei is my original name in Chinese but since a lot of people (i.e. non-Chinese speakers) are having a hard time pronouncing it (and messing it up really badly into a word that sounds both hilariously and awkwardly inappropriate in Chinese\*), I usually just go by **Whiskey**, a nickname I picked for myself in primary school when I was crazy about a Japanese anime series in which all the antagonists, who are basically all gang members, are given code names based on alcoholic beverages. Yes, there are a wide variety of them, which include:
+Zewei is my original name in Chinese but since a lot of people (i.e. non-Chinese speakers) are having a hard time pronouncing it (and messing it up really badly into a word that sounds both hilariously and awkwardly inappropriate in Chinese -- see the bottom of this section), I usually just go by **Whiskey**, a nickname I picked for myself in primary school when I was crazy about a Japanese anime series in which all the antagonists, who are basically all gang members, are given code names based on alcoholic beverages. Yes, there are a wide variety of them, which include:
 - Gin
 - Vodka
 - Vermouth
