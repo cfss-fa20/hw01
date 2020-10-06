@@ -12,3 +12,6 @@ During my time in this course, and over the MAPSS program in general, I am hopin
 2. utilize these new programming-focused skills in the process of creating my master's thesis project 
 
 3. expand my knowledge and understanding of the role data plays in social science
+
+In my spare time, I recently have been collecting pins and learning about fashion history. 
+But, when Covid isn't a thing, I like to sing, volunteer at animal shelters, and go to concerts (House of Blues is my favorite venue ever). 
