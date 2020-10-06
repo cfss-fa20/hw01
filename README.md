@@ -10,12 +10,12 @@ I have two younger sisteres named *Elsa* and *Natalia* and I love them both very
 
 #### My Hobbies
 
-*Working out
-*Cooking 
-*Reading 
-*I play 8 sports
-*Hiking 
-*Traveling
+* Working out
+* Cooking 
+* Reading 
+* I play 8 sports
+* Hiking 
+* Traveling
 
 ##### My COVID Summer
 
