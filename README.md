@@ -9,5 +9,5 @@ My name is Xinyu Zou
 1. I have one cat name Yuumi
 2. I love Japaese food.
 
-My favorite website is [Github](https://github.com/xinyuxy07/hw01)
+My favorite website is [Github](https://github.com/)
 
