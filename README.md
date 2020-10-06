@@ -4,7 +4,7 @@
 
 I was born on *April 24th, 1996* in **Jos, Nigeria**  I am currently getting my Masters in Public Policy at **The University of Chicago.**
 
-###Family
+### Family
 
 I have two younger sisteres named *Elsa* and *Natalia* and I love them both very much. My mum runs and NGO in Nigeria that helps widows and orphans affected by Boko Haram in Nigeria. My dad is an investor and consoultant in Nigeria. 
 
