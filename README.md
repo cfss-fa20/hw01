@@ -18,8 +18,8 @@ Since none of them is actually "Whiskey," and the first syllable of "Whiskey" so
 Check this [wiki page](https://www.wikiwand.com/en/List_of_Case_Closed_characters#Black_Organization) for a more comprehensive list of my fellows! 
 
 <details>
-  <summary> *Click here to see what "Zewei" sounds like in Chinese when it's mispronounced:* </summary>
-  Ziwei, which means masturbation in Chinese
+  <summary> <i>Click here to see what "Zewei" sounds like in Chinese when it's mispronounced: </i> </summary>
+  Ziwei, which is what "Zewei" sounds like when mispronounced, means masturbation in Chinese
   
 </details>
 
