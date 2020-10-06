@@ -13,4 +13,4 @@ My favorite foods includes:
 
 ## Photography
 
-![Diqi's photo](/Users/greenie/Downloads/IMG_1576.JPG)
+![Diqi's photo](/IMG_1576.JPG)
