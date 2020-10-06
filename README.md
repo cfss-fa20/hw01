@@ -14,7 +14,7 @@ Here are a few more facts about me
 
 At first I was having a lot of difficulty with this assignment. I initially forked and copied the assignment into my repository with litte issue and tried running a few tests but I realized that I couldn't push anything to the repository. After looking around Stackflow for help, I turned to the Issues tab where Professor Soltof advised that I just make another copy of the repository on my computer, which I did. This helped and after making sure that I had indeed installed everything correctly and rewatching the homework flow video for the fifth time I was able to successfully format and push onto Github. I used [this guide](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) to cover some basic formatting on Github. I found Markdown pretty easy to use for basic formatting, but I had trouble with resizing my image. I tried a few different formats for that but none of them seemed to work and all of them resulted in the code showing up next to the image on Github. Otherwise, everything else felt straightforward once I figured how to stage, commit, and push on Git. 
 
-## My WOrk Proces
+## My Work Proces
 
 * Fork repository from the class account.
 * Make a copy of the repository and create a project in RStudio. 
