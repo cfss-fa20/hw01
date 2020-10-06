@@ -3,7 +3,7 @@
 
 #### Who Am I? (... I am Jean Valjean!??)
 
-![Here I Am](Dhruv_Headshot.jpeg){width=30%}  
+![Here I Am](Dhruv_Headshot.jpeg)
 
 I'm Jesse Orr, a second year student at Harris from **Baltimore, MD**.  Well, technically **Owings Mills, MD**, a suburb of Baltimore.
 
@@ -25,7 +25,7 @@ Just kidding. No variety.  I really only did Model UN.
 
 After graduating, I ~~dicked around~~ *interned* in DC for a year in "Business Development and New Initiatives" for a think tank.
 
-Then I began a Fellowship with the **International Innovation Corps** in India, working with state and local governments to build capacity in various sectors.
+Then I began a Fellowship with the [**International Innovation Corps**](http://www.iic.uchicago.edu) in India, working with state and local governments to build capacity in various sectors.
 
 I spent my first year working with the Ministry of Municipal Administration and Urban Development of Andhra Pradesh as part of a special group called the "Swachh Andhra Corporation" on a Septage Management project.
 
@@ -33,4 +33,5 @@ I.e... what happens when someone's septic tank fills up (sewage systems with ful
 
 It was actually a great time.
 
-However... in the interest of not writing to much, when it isn't really relevant, that's it for now.
+However... in the interest of not writing to much, when it isn't really relevant for whoever is grading this, that's it for now.
+
