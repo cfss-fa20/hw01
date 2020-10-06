@@ -7,3 +7,8 @@ I am a MAPSS student pursuing the Computational Social Science certificate, whic
 My research interests are prejudice and discrimination, based on race/ethnicity or disability, in organizational contexts like the workplace or in education. 
 During my time in this course, and over the MAPSS program in general, I am hoping to: 
 
+1. gain coding skills by being introduced to the R programming language
+
+2. utilize these new programming-focused skills in the process of creating my master's thesis project 
+
+3. expand my knowledge and understanding of the role data plays in social science
