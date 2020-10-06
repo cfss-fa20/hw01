@@ -33,4 +33,4 @@ Check this [wiki page](https://www.wikiwand.com/en/List_of_Case_Closed_character
 
 ## A picture of me (or, rather, the exhaustion of my artistry)
 
-![self portrait](https://github.com/whiskey0504/hw01/blob/master/self_portrait.jpeg)
+![self portrait](https://github.com/whiskey0504/myrepo/blob/main/self_portrait.jpeg)
