@@ -16,4 +16,4 @@ During my time in this course, and over the MAPSS program in general, I am hopin
 In my spare time, I recently have been collecting pins and learning about fashion history. 
 But, when Covid isn't a thing, I like to sing, volunteer at animal shelters, and go to concerts (House of Blues is my **favorite** venue ever). 
 
-![here is my facebook profile pic because I am unoriginal](https://www.facebook.com/photo?fbid=3666414870040688&set=pcb.3666414926707349) 
+![here is my facebook profile pic because I am unoriginal](https://www.facebook.com/photo.php?fbid=4027310477284457&set=t.100000166331754&type=3)
