@@ -14,6 +14,6 @@ During my time in this course, and over the MAPSS program in general, I am hopin
 3. expand my knowledge and understanding of the role data plays in social science
 
 In my spare time, I recently have been collecting pins and learning about fashion history. 
-But, when Covid isn't a thing, I like to sing, volunteer at animal shelters, and go to concerts (House of Blues is my **favorite** venue ever). 
+~~But, when we are not in a pandemic~~, I also like to sing, volunteer at animal shelters, and go to concerts (House of Blues is my **favorite** venue ever). 
 
 ![here is my facebook profile pic because I am unoriginal](https://www.facebook.com/photo.php?fbid=4027310477284457&set=t.100000166331754&type=3)
