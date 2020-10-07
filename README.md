@@ -21,7 +21,7 @@ Here are a list of things that I enjoy:
 * Cooking and trying new food 
   + I am a vegetarian, and love Asian cusine but I pretty much eat everything
   + I am open to trying new dishes any day
-  + During the past few months at home, I have also begun cooking a baking different dishes at home
+  + During the past few months at home, I have also begun cooking and baking different dishes at home
 * Walking
 
 
