@@ -17,4 +17,4 @@ I used the visual markdown editor *to check my work.* ***Ok?***
 
 Closest approximation to my current state: ![Closest approximation to my current state.](https://i.kym-cdn.com/entries/icons/mobile/000/023/846/lisa.jpg)
 
-## *Bonjour!* 
+## *Bonjour!*
